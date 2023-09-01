@@ -1,0 +1,2 @@
+The Malware Hunter project aims to develop new techniques for automatically detecting Android malware by identifying features associated with malicious behavior, improving the security and robustness of embedded software (applications) on Smartphones. 
+The project's scope consists of implementing two solutions: one based on association rules, where pre-specified statistical thresholds are used, and (2) one based on supervised machine learning techniques.
